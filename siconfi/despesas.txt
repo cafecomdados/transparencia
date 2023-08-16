@@ -1,1 +1,12 @@
+Período: 2018 a 2022 
+ Índice base: 2018 
+ A preços de: 2022 
+ 
+ Variáveis em R$ : 
+
+ Despesas Empenhadas
+Despesas Liquidadas
+Despesas Pagas
+Inscrição de Restos a Pagar Não Processados
+Inscrição de Restos a Pagar Processados 
 

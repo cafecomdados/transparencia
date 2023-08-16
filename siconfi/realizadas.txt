@@ -1,0 +1,1187 @@
+Período: 2018 a 2022 
+ Índice base: 2018 
+ A preços de: 2022 
+ 
+ Variáveis em R$ : 
+
+ 1.0.0.0.00.0.0 - Receitas Correntes
+1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria
+1.1.1.0.00.0.0 - Impostos
+1.1.1.2.00.0.0 - Impostos sobre o Patrimônio
+1.1.1.2.51.0.0 - Imposto sobre a Propriedade de Veículos Automotores
+1.1.1.2.52.0.0 - Imposto sobre Transmissão -Causa Mortis¿ e Doação de Bens e Direitos
+1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza
+1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF
+1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte
+1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho
+1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos
+1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços
+1.1.1.4.50.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços
+1.1.1.4.50.1.0 - Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação
+1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios
+1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios
+1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios
+1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios
+1.1.1.8.01.2.0 - Imposto sobre a Propriedade de Veículos Automotores
+1.1.1.8.01.2.0 Imposto sobre a Propriedade de Veículos Automotores
+1.1.1.8.01.3.0 - Imposto sobre Transmissão -Causa Mortis¿ e Doação de Bens e Direitos
+1.1.1.8.01.3.0 Imposto sobre Transmissão -Causa Mortis¿ e Doação de Bens e Direitos
+1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços
+1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços
+1.1.1.8.02.1.0 - Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação
+1.1.1.8.02.1.0 Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação
+1.1.2.0.00.0.0 - Taxas
+1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia
+1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização
+1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental
+1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços
+1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços
+1.1.2.2.02.0.0 - Emolumentos e Custas Judiciais
+1.1.2.2.50.0.0 - Taxas Judiciais
+1.1.2.2.51.0.0 - Taxas Extrajudiciais
+1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios
+1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços
+1.1.2.8.02.1.0 - Taxas Judiciais
+1.1.2.8.02.2.0 - Taxas Extrajudiciais
+1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras
+1.2.0.0.00.0.0 - Contribuições
+1.2.1.0.00.0.0 - Contribuições Sociais
+1.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS
+1.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS
+1.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS
+1.2.1.0.04.3.0 - Contribuição do Servidor Inativo para o RPPS
+1.2.1.0.04.4.0 - Contribuição do Pensionista para o RPPS
+1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social
+1.2.1.5.01.0.0 - Contribuição do Servidor Civil
+1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo
+1.2.1.5.01.2.0 - Contribuição do Servidor Civil Inativo
+1.2.1.5.01.3.0 -Contribuição do Servidor Civil - Pensionistas
+1.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil
+1.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo
+1.2.1.5.52.0.0 - Contribuição do Militar para o Sistema de Proteção Social dos Militares
+1.2.1.5.52.1.0 - Contribuição do Militar Ativo
+1.2.1.5.52.2.0 - Contribuição do Militar Inativo
+1.2.1.5.52.3.0 - Contribuição dos Pensionistas Militares
+1.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e Municípios
+1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios
+1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN
+1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo
+1.2.1.8.01.2.0 - CPSSS do Servidor Civil Inativo
+1.2.1.8.01.3.0 - CPSSS do Servidor Civil - Pensionistas
+1.2.1.8.02.0.0 Contribuição para Previdência Militar de Estados, DF e Municípios
+1.2.1.8.02.2.0 Contribuição do Militar Ativo
+1.2.1.8.02.3.0 Contribuição do Militar Inativo
+1.2.1.8.02.4.0 Contribuição dos Pensionistas Militares
+1.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN
+1.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo
+1.2.1.8.05.0.0 - Contribuição dos Militares e Pensionistas para Previdência Militar de Estados e DF
+1.2.1.8.05.0.0 - Contribuição dos Militares e Pensionistas para o Sistema de Proteção Social dos Militares - SPSM de Estados e DF
+1.2.1.8.05.1.0 - Contribuição do Militar Ativo
+1.2.1.8.05.1.0 - Contribuição para o SPSM - Militar Ativo
+1.2.1.8.05.2.0 - Contribuição do Militar Inativo
+1.2.1.8.05.2.0 - Contribuição para o SPSM - Militar Inativo
+1.2.1.8.05.3.0 - Contribuição dos Pensionistas Militares
+1.2.1.8.05.3.0 - Contribuição para o SPSM - Pensionistas Militares
+1.2.2.0.00.0.0 - Contribuições Econômicas
+1.2.2.1.00.0.0 - Contribuições Econômicas
+1.2.2.1.99.0.0 - Outras Contribuições Econômicas
+1.3.0.0.00.0.0 - Receita Patrimonial
+1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado
+1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação
+1.3.1.0.01.1.0 - Aluguéis e Arrendamentos
+1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos
+1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado
+1.3.1.1.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação
+1.3.1.1.01.1.0 - Aluguéis e Arrendamentos
+1.3.1.1.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos
+1.3.2.0.00.0.0 - Valores Mobiliários
+1.3.2.1.00.0.0 - Juros e Correções Monetárias
+1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários
+1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS
+1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários
+1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS
+1.3.2.2.00.0.0 - Dividendos
+1.3.3.0.00.0.0 - Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença
+1.3.3.1.00.0.0 - Delegação para Prestação dos Serviços de Transporte
+1.3.3.1.01.0.0 - Delegação para a Prestação dos Serviços de Transporte Rodoviário
+1.3.6.0.00.0.0 - Cessão de Direitos
+1.3.6.0.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos
+1.3.6.0.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos
+1.3.6.1.00.0.0 - Cessão de Direitos
+1.3.6.1.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos
+1.3.6.1.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos - Poderes Executivo e Legislativo
+1.3.6.1.01.2.0 - Cessão do Direito de Operacionalização de Pagamentos - Poder Judiciário
+1.3.9.0.00.0.0 - Demais Receitas Patrimoniais
+1.4.0.0.00.0.0 - Receita Agropecuária
+1.6.0.0.00.0.0 - Receita de Serviços
+1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais
+1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais
+1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos
+1.6.1.0.03.0.0 - Serviços de Registro, Certificação e Fiscalização
+1.6.1.0.04.0.0 - Serviços de Informação e Tecnologia
+1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais
+1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais
+1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos
+1.6.1.1.03.0.0 - Serviços de Registro, Certificação e Fiscalização
+1.6.1.1.04.0.0 - Serviços de Informação e Tecnologia
+1.6.2.0.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte
+1.6.2.0.02.0.0 - Serviços de Transporte
+1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde
+1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde
+1.6.9.0.00.0.0 - Outros Serviços
+1.6.9.0.99.0.0 - Outros Serviços
+1.7.0.0.00.0.0 - Transferências Correntes
+1.7.1.0.00.0.0 - Transferências da União e de suas Entidades
+1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União
+1.7.1.1.50.0.0 - Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal - FPE
+1.7.1.1.53.0.0 - Cota-Parte do Imposto Sobre Produtos Industrializados - Estados Exportadores de Produtos Industrializados
+1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico
+1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais
+1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM
+1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo
+1.7.1.2.52.3.0 - Cota-parte pela Participação Especial - Lei nº 9.478/97, artigo 50
+1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais 
+1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde - SUS 
+1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde
+1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Atenção Primária
+1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Atenção Especializada
+1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Vigilância em Saúde
+1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Assistência Farmacêutica
+1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Gestão do SUS
+1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE¿ 
+1.7.1.4.50.0.0 - Transferências do Salário-Educação
+1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades
+1.7.1.7.52.0.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social
+1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades
+1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios
+1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios
+1.7.1.8.01.0.0 - Participação na Receita da União
+1.7.1.8.01.0.0 Participação na Receita da União
+1.7.1.8.01.1.0 - Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal
+1.7.1.8.01.1.0 Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal
+1.7.1.8.01.6.0 - Cota-Parte do Imposto Sobre Produtos Industrializados - Estados Exportadores de Produtos Industrializados
+1.7.1.8.01.6.0 Cota-Parte do Imposto Sobre Produtos Industrializados - Estados Exportadores de Produtos Industrializados
+1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico
+1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico
+1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais
+1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais
+1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM
+1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM
+1.7.1.8.02.5.0 - Cota-parte Royalties pela Participação Especial - Lei nº 9.478/97, artigo 50
+1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial - Lei nº 9.478/97, artigo 50
+1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde - SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde
+1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde - 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde
+1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde - SUS ¿ Repasses Fundo a Fundo
+1.7.1.8.03.1.0 - Transferência de Recursos do SUS - Atenção Básica
+1.7.1.8.03.1.0 - Transferência de Recursos do SUS - Atenção Primária
+1.7.1.8.03.2.0 - Transferência de Recursos do SUS - Atenção Especializada
+1.7.1.8.03.2.0 - Transferência de Recursos do SUS - Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar
+1.7.1.8.03.3.0 - Transferência de Recursos do SUS - Vigilância em Saúde
+1.7.1.8.03.4.0 - Transferência de Recursos do SUS - Assistência Farmacêutica
+1.7.1.8.03.5.0 - Transferência de Recursos do SUS - Gestão do SUS
+1.7.1.8.03.9.0 - Transferência de Recursos do SUS - Outros Programas Financiados por Transferências Fundo a Fundo
+1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE
+1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE
+1.7.1.8.05.1.0 - Transferências do Salário-Educação
+1.7.1.8.05.1.0 Transferências do Salário-Educação
+1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE
+1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE
+1.7.1.8.06.0.0 Transferência Financeira do ICMS - Desoneração ¿ L.C. Nº 87/96
+1.7.1.8.06.1.0 Transferência Financeira do ICMS - Desoneração ¿ L.C. Nº 87/96
+1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades
+1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades
+1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde - SUS
+1.7.1.8.10.2.0 - Transferências de Convênios da União Destinadas a Programas de Educação
+1.7.1.8.10.3.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social
+1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social
+1.7.1.8.10.5.0 - Transferências de Convênios da União Destinadas a Programas de Saneamento Básico
+1.7.1.8.10.9.0 - Outras Transferências de Convênios da União
+1.7.1.8.10.9.0 Outras Transferências de Convênios da União
+1.7.1.8.11.0.0 - Transferências de Recursos para Segurança Pública
+1.7.1.8.11.0.0 Outras Transferências de Recursos Fundo a Fundo
+1.7.1.8.99.0.0 - Outras Transferências da União
+1.7.1.8.99.0.0 Outras Transferências da União
+1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades
+1.7.1.9.53.0.0 - Transferências de Recursos do Fundo Penitenciário Nacional - Fupen
+1.7.1.9.57.0.0 - Transferência Especial da União
+1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020
+1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades
+1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades
+1.7.2.0.00.1.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades
+1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades
+1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades
+1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios
+1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios
+1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades
+1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades
+1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados
+1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados
+1.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades
+1.7.3.8.00.0.0 - Transferências dos Municípios -Específicas de Estados, DF e Municípios
+1.7.3.8.00.0.0 Transferências dos Municípios -Específicas de Estados, DF e Municípios
+1.7.3.8.10.0.0 - Transferência de Convênios dos Municípios e de Suas Entidades
+1.7.3.8.10.0.0 Transferência de Convênios dos Municípios e de Suas Entidades
+1.7.3.8.10.9.0 - Outras Transferências de Convênios dos Municípios
+1.7.3.8.10.9.0 Outras Transferências de Convênios dos Municípios
+1.7.4.0.00.0.0 - Transferências de Instituições Privadas
+1.7.4.0.00.1.0 - Transferências de Instituições Privadas
+1.7.4.1.00.0.0 - Transferências de Instituições Privadas
+1.7.4.1.99.0.0 - Outras Transferências de Instituições Privadas
+1.7.4.8.00.0.0 - Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios
+1.7.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios
+1.7.4.8.10.0.0 - Outras Transferência de Instituições Privadas para EST/DF/MUN - Não Especificadas Anteriormente
+1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas
+1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB
+1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios
+1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios
+1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB
+1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB
+1.7.6.0.00.0.0 - Transferências do Exterior
+1.7.6.1.00.0.0 - Transferências do Exterior
+1.7.6.1.50.0.0 - Transferências de Convênios do Exterior - Programas de Saúde
+1.7.6.8.00.0.0 - Transferências do Exterior - Específicas de Estados, DF e Municípios
+1.7.6.8.01.0.0 - Transferência de Convênios do Exterior
+1.7.6.8.01.1.0 - Transferência de Convênios do Exterior - Programas de Saúde
+1.7.7.0.00.0.0 - Transferências de Pessoas Físicas
+1.7.7.0.00.1.0 - Transferências de Pessoas Físicas
+1.7.7.8.00.0.0 - Transferências de Pessoas Físicas - Específicas de Estados, DF e Municípios
+1.7.7.8.01.0.0 - Transferências de Pessoas Físicas - Específicas de E/DF/M
+1.7.7.8.01.1.0 - Transferências de Pessoas Físicas - Específicas de E/DF/M - Programas de Saúde
+1.7.7.8.01.9.0 - Outras Transferência de Pessoas Físicas- Específicas de E/DF/M - Não Especificadas Anteriormente
+1.7.8.0.00.0.0 - Transferências Provenientes de Depósitos Não Identificados
+1.7.9.0.00.0.0 - Demais Transferências Correntes
+1.7.9.1.00.0.0 - Transferências de Pessoas Físicas
+1.7.9.1.99.0.0 - Outras Transferências de Pessoas Físicas
+1.9.0.0.00.0.0 - Outras Receitas Correntes
+1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais
+1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica
+1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas
+1.9.1.0.09.0.0 - Multas e Juros Previstos em Contratos
+1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais
+1.9.1.1.01.0.0 - Multas Previstas em Legislação Específica
+1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas
+1.9.1.1.09.0.0 - Multas e Juros Previstos em Contratos
+1.9.1.1.14.0.0 - Multas Previstas no Código de Trânsito Brasileiro - CTB
+1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos
+1.9.2.1.00.0.0 - Indenizações
+1.9.2.1.99.0.0 - Outras Indenizações
+1.9.2.2.00.0.0 - Restituições
+1.9.2.2.01.0.0 - Restituição de Convênios
+1.9.2.2.03.0.0 - Restituição de Benefícios Previdenciários
+1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores
+1.9.2.2.50.0.0 - Restituição de Recursos Recebidos do SUS
+1.9.2.2.99.0.0 - Outras Restituições
+1.9.2.3.00.0.0 - Ressarcimentos
+1.9.2.3.99.0.0 - Outros Ressarcimentos
+1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios
+1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios
+1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios
+1.9.2.8.02.1.0 - Restituições de Recursos Recebidos do SUS - Específicas para Estados/DF/Municípios
+1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente
+1.9.2.8.03.0.0 - Ressarcimentos - Específicas para Estados/DF/Municípios
+1.9.9.0.00.0.0 - Demais Receitas Correntes
+1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores
+1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência
+1.9.9.0.12.2.0 - Ônus de Sucumbência
+1.9.9.0.99.0.0 - Outras Receitas
+1.9.9.0.99.1.0 - Outras Receitas - Primárias
+1.9.9.0.99.2.0 - Outras Receitas - Financeiras
+1.9.9.9.00.0.0 - Outras Receitas Correntes
+1.9.9.9.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência e Sistema de Proteção Social
+1.9.9.9.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência
+1.9.9.9.12.2.0 - Ônus de Sucumbência
+1.9.9.9.99.0.0 - Outras Receitas
+1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias
+2.0.0.0.00.0.0 - Receitas de Capital
+2.1.0.0.00.0.0 - Operações de Crédito
+2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno
+2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno
+2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno
+2.1.1.2.55.0.0 - Operações de Crédito Internas para Refinanciamento da Dívida Contratual
+2.1.1.2.56.0.0 - Operações de Crédito Internas para Programas de Moradia Popular
+2.1.1.9.00.0.0 - Outras Operações de Crédito - Mercado Interno
+2.1.1.9.00.0.0 Outras Operações de Crédito - Mercado Interno
+2.1.2.0.00.0.0 - Operações de Crédito - Mercado Externo
+2.1.2.2.00.0.0 Operações de Crédito Contratuais - Mercado Externo
+2.1.2.8.00.0.0 - Operação de Crédito Externas - Estados/DF/Municípios
+2.1.2.8.00.0.0 Operação de Crédito Externas - Estados/DF/Municípios
+2.1.2.8.01.0.0 - Operações de Crédito Externas - Estados/DF/ Municípios
+2.1.2.8.01.1.0 - Operações de Crédito Externas para Programas de Educação
+2.1.2.8.01.3.0 - Operações de Crédito Externas para Programas de Saneamento
+2.1.2.8.01.4.0 - Operações de Crédito Externas para Programas de Meio Ambiente
+2.1.2.9.00.0.0 - Outras Operações de Crédito - Mercado Externo
+2.1.2.9.00.0.0 Outras Operações de Crédito - Mercado Externo
+2.2.0.0.00.0.0 - Alienação de Bens
+2.2.1.0.00.0.0 - Alienação de Bens Móveis
+2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes
+2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes
+2.2.2.0.00.0.0 - Alienação de Bens Imóveis
+2.3.0.0.00.0.0 - Amortização de Empréstimos
+2.3.0.0.06.0.0 - Amortização de Empréstimos Contratuais
+2.3.1.0.00.0.0 - Amortização de Empréstimos
+2.3.1.1.00.0.0 - Amortização de Empréstimos
+2.3.1.1.06.0.0 - Amortização de Empréstimos Contratuais
+2.4.0.0.00.0.0 - Transferências de Capital
+2.4.1.0.00.0.0 - Transferências da União e de suas Entidades
+2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS
+2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde
+2.4.1.1.50.4.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Assistência Farmacêutica
+2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde
+2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada
+2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades 
+2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades
+2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios
+2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios
+2.4.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde - SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde
+2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde - SUS
+2.4.1.8.03.2.0 - Transferência de Recursos do SUS - Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar
+2.4.1.8.03.4.0 - Transferência de Recursos do SUS - Assistência Farmacêutica
+2.4.1.8.03.9.0 - Transferência de Recursos do SUS - Outros Programas Financiados por Transferências Fundo a Fundo
+2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde
+2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde
+2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Atenção Básica
+2.4.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Atenção Especializada
+2.4.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Vigilância em Saúde
+2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades
+2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades
+2.4.1.8.10.2.0 - Transferências de Convênio da União destinadas a Programas de Educação
+2.4.1.8.10.5.0 - Transferências de Convênios da União destinadas a Programas de Saneamento Básico
+2.4.1.8.10.6.0 - Transferências de Convênios da União destinadas a Programas de Meio Ambiente
+2.4.1.8.10.7.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte
+2.4.1.8.10.9.0 - Outras Transferências de Convênios da União
+2.4.1.8.99.0.0 - Outras Transferências da União
+2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades
+2.4.1.9.51.0.0 - Transferência Especial da União
+2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades
+7.0.0.0.00.0.0 - Receitas Correntes
+7.0.0.0.00.0.0 - Receitas Correntes - Intraorçamentárias
+7.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria
+7.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria - Intraorçamentárias
+7.2.0.0.00.0.0 - Contribuições
+7.2.0.0.00.0.0 - Contribuições - Intraorçamentárias
+7.2.1.0.00.0.0 - Contribuições Sociais
+7.2.1.0.00.0.0 - Contribuições Sociais - Intraorçamentárias
+7.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS - Intraorçamentárias
+7.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS - Intraorçamentárias
+7.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social
+7.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil
+7.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo
+7.2.1.5.52.0.0 - Contribuição do Militar para o Sistema de Proteção Social dos Militares
+7.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e   Municípios
+7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios
+7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios
+7.2.1.8.02.0.0 Contribuição para Previdência Militar de Estados, DF e Municípios
+7.2.1.8.02.2.0 Contribuição do Militar Ativo
+7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN
+7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo
+7.2.1.8.07.0.0 - Contribuição Patronal para Previdência Militar de Estados e DF
+7.2.1.8.07.0.0 - Contribuição Patronal para o Sistema de Proteção Social dos Militares - SPSM de Estados e DF
+7.2.1.8.07.1.0 - Contribuição Patronal - Militar Ativo
+7.2.1.8.07.1.0 - Contribuição Patronal para o SPSM - Militar Ativo
+7.6.0.0.00.0.0 - Receita de Serviços
+7.6.0.0.00.0.0 - Receita de Serviços - Intraorçamentárias
+7.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais
+7.6.1.0.03.0.0 - Serviços de Registro, Certificação e Fiscalização
+7.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais
+7.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais
+7.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde
+7.6.3.0.01.0.0 - Serviços de Atendimento à Saúde
+7.6.3.1.00.0.0 - Serviços de Atendimento à Saúde
+7.6.3.1.50.0.0 - Serviços Hospitalares
+7.6.3.8.00.0.0 - Serviços e Atividades Referentes à Saúde - Específico para Estados/DF/Municípios
+7.6.3.8.01.0.0 - Serviços de Saúde - Específico para Estados/DF/Municípios
+7.6.3.8.01.1.0 - Serviços Hospitalares
+7.6.9.0.00.0.0 - Outros Serviços
+7.7.0.0.00.0.0 - Transferências Correntes
+7.7.0.0.00.0.0 - Transferências Correntes - Intraorçamentárias
+7.7.1.0.00.0.0 - Transferências da União e de suas Entidades
+7.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades
+7.9.0.0.00.0.0 - Outras Receitas Correntes
+7.9.0.0.00.0.0 - Outras Receitas Correntes - Intraorçamentárias
+7.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos
+7.9.9.0.00.0.0 - Demais Receitas Correntes
+7.9.9.0.99.0.0 - Outras Receitas
+7.9.9.9.00.0.0 - Outras Receitas Correntes
+7.9.9.9.99.0.0 - Outras Receitas
+7.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias
+8.0.0.0.00.0.0 - Receitas de Capital
+8.4.0.0.00.0.0 - Transferências de Capital
+8.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades
+RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)
+RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)
+TOTAL DAS RECEITAS (III) = (I + II)
+Total Receitas
+1.1.1.4.50.2.0 - Adicional ICMS - Fundo Estadual de Combate à Pobreza
+1.1.1.8.02.2.0 - Adicional ICMS - Fundo Estadual de Combate à Pobreza
+1.1.1.8.02.2.0 Adicional ICMS - Fundo Estadual de Combate à Pobreza
+1.1.3.0.00.0.0 - Contribuição de Melhoria
+1.1.3.0.00.1.0 - Contribuição de Melhoria
+1.1.3.1.00.0.0 - Contribuição de Melhoria
+1.1.3.1.99.0.0 - Outras Contribuições de Melhoria
+1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios
+1.2.1.0.99.0.0 - Outras Contribuições Sociais
+1.2.1.8.01.4.0 - CPSSS Oriunda de Sentenças Judiciais - Servidor Civil Ativo
+1.2.1.8.02.0.0 - CPSSS - Parcelamentos - Específico de EST/DF/MUN
+1.2.1.8.02.1.0 - CPSSS - Parcelamentos - do Servidor Civil Ativo
+1.2.1.8.02.2.0 - CPSSS - Parcelamentos - do Servidor Civil Inativo
+1.2.1.9.00.0.0 - Outras Contribuições Sociais
+1.2.1.9.99.0.0 - Demais Contribuições Sociais
+1.2.1.9.99.1.0 - Demais Contribuições Sociais Não Arrecadadas e Não Projetadas pela RFB
+1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação
+1.3.1.0.99.0.0 - Outras Receitas Imobiliárias
+1.3.1.1.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação
+1.3.1.1.99.0.0 - Outras Receitas Imobiliárias
+1.3.2.3.00.0.0 - Participações
+1.3.2.9.00.0.0 - Outros Valores Mobiliários
+1.3.3.9.00.0.0 - Demais Delegações de Serviços Públicos
+1.3.4.0.00.0.0 - Exploração de Recursos Naturais
+1.3.4.4.00.0.0 - Exploração de Recursos Minerais
+1.3.4.4.02.0.0 - Compensação Financeira pela Exploração de Recursos Minerais
+1.6.3.1.00.0.0 - Serviços de Atendimento à Saúde
+1.6.3.1.99.0.0 - Outros Serviços de Atendimento à Saúde
+1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos
+1.7.1.2.52.2.0 - Cota-parte pelo Excedente da Produção do Petróleo - Lei nº 9.478/97, artigo 49, I e II
+1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo - FEP
+1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Outros Programas
+1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde
+1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada
+1.7.1.3.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS
+1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB 
+1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS
+1.7.1.7.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS
+1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação
+1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo - FEP
+1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo - FEP
+1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB
+1.7.1.8.10.1.0 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS
+1.7.1.8.10.2.0 Transferências de Convênios da União Destinadas a Programas de Educação
+1.7.1.8.10.4.0 - Transferências de Convênios da União Destinadas a Programas de Combate à Fome
+1.7.1.8.10.4.0 Transferências de Convênios da União Destinadas a Programas de Combate à Fome
+1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS
+1.7.3.2.00.0.0 - Transferências de Convênios dos Municípios e de Suas Entidades
+1.7.3.2.51.0.0 - Transferências de Convênios dos Municípios destinadas a Programas de Educação
+1.7.3.9.00.0.0 - Outras Transferências dos Municípios
+1.7.3.9.99.0.0 - Outras Transferências dos Municípios
+1.7.6.1.99.0.0 - Outras Transferências do Exterior
+1.9.1.0.06.0.0 - Multas por Danos Ambientais
+1.9.1.0.06.1.0 - Multas Administrativas por Danos Ambientais
+1.9.1.1.06.0.0 - Multas por Danos Ambientais
+1.9.1.1.06.1.0 - Multas Administrativas por Danos Ambientais
+1.9.2.1.01.0.0 - Indenizações por Danos Causados ao Patrimônio Público
+1.9.2.3.02.0.0 - Ressarcimento de Custos
+1.9.3.0.00.0.0 - Bens, Direitos e Valores Incorporados ao Patrimônio Público
+1.9.3.0.02.0.0 - Alienação de Bens Apreendidos
+1.9.3.0.02.1.0 - Alienação de Bens e Mercadorias Apreendidos
+1.9.3.1.00.0.0 - Bens, Direitos e Valores Incorporados ao Patrimônio Público
+1.9.3.1.02.0.0 - Alienação de Bens Apreendidos
+1.9.3.1.02.1.0 - Alienação de Bens e Mercadorias Apreendidos
+1.9.9.9.16.0.0 - Títulos Executivos Extrajudiciais
+1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB
+2.1.2.2.00.0.0 - Operações de Crédito Contratuais - Mercado Externo
+2.1.2.2.01.0.0 - Operações de Crédito Contratuais - Mercado Externo
+2.4.1.8.03.1.0 - Transferência de Recursos do SUS - Atenção Básica
+2.4.1.8.99.0.0 Outras Transferências da União
+7.2.1.5.50.0.0 - Contribuição Patronal - Servidor Civil Inativo e Pensionistas
+7.2.1.5.50.1.0 - Contribuição Patronal - Servidor Civil - Inativo
+7.2.1.5.50.2.0 - Contribuição Patronal - Servidor Civil - Pensionistas
+7.2.1.5.53.0.0 - Contribuição Patronal para o Sistema de Proteção Social dos Militares
+7.2.1.5.53.1.0 - Contribuição Patronal - Militar Ativo
+7.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN
+7.2.1.8.01.0.0 Contribuições para o Regime Próprio de Previdência Social - RPPS de Estados/DF/Municípios
+7.2.1.8.01.1.0 Contribuição Previdenciária para Amortização do Déficit Atuarial
+7.2.1.8.01.2.0 Contribuição Patronal dos Servidores Civis Inativos
+7.2.1.8.01.3.0 Contribuição Patronal dos Pensionistas Civis
+7.2.1.8.02.0.0 - CPSSS - Parcelamentos - Específico de EST/DF/MUN
+7.2.1.8.02.1.0 Contribuição Patronal do Militar Ativo
+7.2.1.8.03.2.0 - CPSSS Patronal - Servidor Civil Inativo
+7.2.1.9.00.0.0 - Outras Contribuições Sociais
+7.3.0.0.00.0.0 - Receita Patrimonial
+7.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado
+7.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação
+7.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado
+7.3.1.1.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação
+7.6.1.0.04.0.0 - Serviços de Informação e Tecnologia
+7.6.1.1.04.0.0 - Serviços de Informação e Tecnologia
+7.6.3.1.99.0.0 - Outros Serviços de Atendimento à Saúde
+7.9.9.9.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do Regimes Próprios de Previdência e Sistema de Proteção Social
+7.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB
+1.1.1.3.02.0.0 - Imposto sobre a Renda de Pessoa Jurídica - IRPJ - Líquida de Incentivos
+1.1.2.1.51.0.0 - Taxa de Saúde Suplementar
+1.2.1.5.01.4.0 - Contribuição Oriunda de Sentenças Judiciais - Servidor Civil Ativo
+1.2.1.5.55.0.0 - Contribuição do Militar para o Sistema de Proteção Social dos Militares - Parcelamentos
+1.2.1.5.55.1.0 -Contribuição do Militar Ativo - Parcelamentos
+1.2.1.8.02.3.0 - CPSSS - Parcelamentos - Pensionistas
+1.2.1.8.02.4.0 - CPSSS - Parcelamentos - Oriunda de Sentenças Judiciais - Servidor Civil Ativo
+1.2.1.8.03.6.0 - CPSSS Patronal - Oriunda de Sentenças Judiciais - Servidor Civil - Pensionistas
+1.2.1.8.06.0.0 - Contribuição dos Militares e Pensionistas para Previdência Militar - Parcelamentos - Específico de EST/DF/MUN
+1.2.1.8.06.1.0 - Contribuição dos Militares e Pensionistas para Previdência Militar - Parcelamentos - Militar Ativo
+1.2.1.8.07.0.0 - Contribuição Patronal para Previdência Militar de Estados e DF
+1.2.1.8.07.2.0 - Contribuição Patronal - Militar Inativo
+1.2.1.8.07.3.0 - Contribuição Patronal - Pensionistas Militares
+1.3.2.1.00.2.0 - Remuneração de Depósitos Especiais
+1.3.2.1.00.3.0 - Remuneração de Saldos de Recursos Não-Desembolsados
+1.3.2.1.00.6.0 - Juros sobre o Capital Próprio
+1.3.4.9.00.0.0 - Exploração de Outros Recursos Naturais
+1.3.4.9.01.0.0 - Compensações Ambientais
+1.5.0.0.00.0.0 - Receita Industrial
+1.6.3.8.00.0.0 - Serviços e Atividades Referentes à Saúde - Específico para Estados/DF/Municípios
+1.6.3.8.01.0.0 - Serviços de Saúde - Específico para Estados/DF/Municípios
+1.6.3.8.01.9.0 - Outros Serviços de Saúde
+1.7.1.1.55.0.0 - Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - Comercialização do Ouro
+1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89
+1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar - PNAE
+1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE
+1.7.1.8.01.8.0 - Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - Comercialização do Ouro
+1.7.1.8.01.8.0 Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - Comercialização do Ouro
+1.7.1.8.02.1.0 - Cota-parte da Compensação Financeira de Recursos Hídricos
+1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos
+1.7.1.8.02.9.0 Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais
+1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde
+1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS
+1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde - SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde
+1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde - SUS Destinados à Atenção Primária
+1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Atenção Básica
+1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola - PDDE
+1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola - PDDE
+1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar - PNAE
+1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar - PNATE
+1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar - PNATE
+1.7.4.8.01.0.0 - Transferência de Convênios de Instituições Privadas para EST/DF/MUN
+1.9.1.0.08.0.0 - Multas Decorrentes de Sentenças Judiciais
+1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras
+2.4.1.1.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Atenção Especializada
+2.4.1.1.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Outros Programas
+2.9.0.0.00.0.0 - Outras Receitas de Capital
+2.9.9.0.00.0.0 - Demais Receitas de Capital
+2.9.9.0.00.1.0 - Demais Receitas de Capital
+2.9.9.0.00.1.0 Demais Receitas de Capital
+2.9.9.9.00.0.0 - Outras Receitas de Capital
+2.9.9.9.99.0.0 - Outras Receitas de Capital
+7.2.1.0.99.0.0 - Outras Contribuições Sociais - Intraorçamentárias
+7.2.1.4.00.0.0 - Contribuições para o Regime Geral de Previdência Social - RGPS
+7.2.1.4.01.0.0 - Contribuição Previdenciária da Empresa
+7.2.1.4.03.0.0 - Contribuição Previdenciária do Segurado Obrigatório
+7.2.1.8.03.4.0 - CPSSS Patronal - Oriunda de Sentenças Judiciais - Servidor Civil Ativo
+7.2.1.8.03.6.0 - CPSSS Patronal - Oriunda de Sentenças Judiciais - Servidor Civil - Pensionistas
+7.2.1.8.06.0.0 - Contribuição dos Militares e Pensionistas para Previdência Militar - Parcelamentos - Específico de EST/DF/MUN
+7.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras
+1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária
+1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização
+1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária
+1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras
+1.2.2.0.99.0.0 - Outras Contribuições Econômicas
+1.2.2.8.00.0.0 - Contribuições Econômicas Específicas de EST/DF/MUN
+1.6.2.0.03.0.0 - Serviços Portuários
+1.6.2.1.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte
+1.6.2.1.02.0.0 - Serviços de Transporte de Passageiros ou Mercadorias
+1.6.2.1.03.0.0 - Serviços Portuários
+1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola - PDDE
+1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar - PNATE
+1.7.1.8.02.3.0 - Cota-parte Royalties - Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89
+1.7.1.8.02.3.0 Cota-parte Royalties - Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89
+1.7.1.8.02.4.0 - Cota-parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97, artigo 49, I e II
+1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97, artigo 49, I e II
+1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar - PNAE
+1.7.1.9.56.0.0 - Transferências Decorrentes de Decisão Judicial (precatórios) Relativas ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF
+1.7.3.8.99.0.0 - Outras Transferências dos Municípios
+1.7.3.8.99.0.0 Outras Transferências dos Municípios
+1.7.4.1.50.0.0 - Transferências de Convênios de Instituições Privadas para Programas de Saúde
+1.7.6.0.00.1.0 - Transferências do Exterior
+1.7.6.8.00.0.0 Transferências do Exterior - Específicas de Estados, DF e Municípios
+1.7.9.9.00.0.0 - Outras Transferências Correntes
+1.9.1.0.06.2.0 - Multas Judiciais por Danos Ambientais
+1.9.1.1.06.2.0 - Multas Judiciais por Danos Ambientais
+1.9.1.1.08.0.0 - Multas Decorrentes de Sentenças Judiciais
+1.9.2.1.03.0.0 - Indenização por Sinistro
+1.9.2.2.02.0.0 - Restituição de Benefícios Não Desembolsados
+1.9.2.3.03.0.0 - Reversão de Garantias
+1.9.9.0.11.0.0 - Variação Cambial
+2.1.2.2.50.0.0 - Operações de Crédito Externas para Programas de Educação
+2.1.2.2.52.0.0 - Operações de Crédito Externas para Programas de Saneamento
+2.4.1.1.51.9.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Outros Programas
+2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS
+2.4.1.4.51.0.0 - Transferências de Convênios da União destinadas a Programas de Educação
+2.4.1.8.04.6.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS, não detalhadas anteriormente
+2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação
+2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde - SUS
+2.4.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades
+2.4.3.2.00.0.0 - Transferências de Convênios dos Municípios e de Suas Entidades 
+2.4.3.2.99.0.0 - Outras Transferências de Convênios dos Municípios e de Suas Entidades
+2.4.3.8.00.0.0 - Transferências dos Municípios e de suas Entidades
+2.4.3.8.00.0.0 Transferências dos Municípios e de suas Entidades
+2.4.3.8.10.0.0 - Transferências de Convênios dos Municípios e de suas Entidades
+2.4.3.8.10.0.0 Transferências de Convênios dos Municípios e de suas Entidades
+2.4.3.8.10.9.0 - Outras Transferências de Convênios dos Municípios
+2.4.4.0.00.0.0 - Transferências de Instituições Privadas
+2.4.4.1.00.0.0 - Transferências de Instituições Privadas
+2.4.4.1.99.0.0 - Outras Transferências de Instituições Privadas
+7.2.1.8.02.5.0 Contribuição Patronal do Militar Inativo
+7.2.1.8.02.6.0 Contribuição Patronal dos Pensionistas Militares
+7.2.1.8.03.3.0 - CPSSS Patronal - Servidor Civil - Pensionistas
+7.2.1.8.07.2.0 - Contribuição Patronal - Militar Inativo
+7.2.1.8.07.3.0 - Contribuição Patronal - Pensionistas Militares
+7.3.0.0.00.0.0 - Receita Patrimonial - Intraorçamentárias
+7.5.0.0.00.0.0 - Receita Industrial
+7.5.0.0.00.0.0 - Receita Industrial - Intraorçamentárias
+1.2.1.0.06.0.0 - Contribuição para os Fundos de Assistência Médica
+1.2.1.0.06.1.0 - Contribuição para os Fundos de Assistência Médica - Policiais Militares
+1.2.1.0.06.3.0 - Contribuição para os Fundos de Assistência Médica dos Servidores Civis
+1.2.1.0.06.9.0 - Contribuição para os Fundos de Assistência Médica de Outros Beneficiários
+1.2.1.6.00.0.0 - Contribuição para Fundos de Assistência Médica
+1.2.1.6.00.0.0 - Contribuição para Fundos de Assistência Médico-Hospitalar e Social  
+1.2.1.6.01.0.0 - Contribuição para Fundos de Assistência Médica - Policiais Militares
+1.2.1.6.01.1.0 - Contribuição para Fundos de Assistência Médica - Policiais Militares
+1.2.1.6.02.0.0 - Contribuição para Fundos de Assistência Médica - Bombeiros Militares
+1.2.1.6.02.1.0 - Contribuição para Fundos de Assistência Médica - Bombeiros Militares
+1.2.1.6.03.0.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis
+1.2.1.6.03.1.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis
+1.2.1.6.04.0.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+1.2.1.6.04.1.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+1.2.1.6.99.0.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+1.2.1.6.99.1.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+1.3.4.5.00.0.0 - Exploração de Recursos Hídricos
+1.3.4.5.01.0.0 - Outorga de Direitos de Uso de Recursos Hídricos
+1.6.4.0.00.0.0 - Serviços e Atividades Financeiras
+1.6.4.0.01.0.0 - Retorno de Operações, Juros e Encargos Financeiros
+1.6.4.1.00.0.0 - Serviços e Atividades Financeiras
+1.6.4.1.01.0.0 - Retorno de Operações, Juros e Encargos Financeiros
+1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS
+1.7.1.8.04.5.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Gestão do SUS
+1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais
+1.7.3.2.99.0.0 - Outras Transferências de Convênios dos Municípios e de Suas Entidades
+1.7.6.8.01.9.0 - Outras Transferência de Convênios do Exterior - Não Especificadas Anteriormente
+1.7.6.8.10.1.0 - Outras Transferência de Convênios do Exterior - Não Especificadas Anteriormente
+1.9.2.2.08.0.0 - Restituição de Garantias Prestadas
+1.9.2.2.51.0.0 - Restituição de Recuros do FUNDEB
+1.9.3.0.05.0.0 - Receitas Reconhecidas por Força de Decisões Judiciais e de Tribunais Administrativos
+1.9.3.1.05.0.0 - Receitas Reconhecidas por Força de Decisões Judiciais e de Tribunais Administrativos
+1.9.4.0.00.0.0 - Multas e Juros de Mora das Receitas de Capital
+1.9.4.2.00.0.0 - Multas e Juros de Mora das Alienações de Bens Imóveis
+1.9.4.2.01.0.0 - Multas e Juros de Mora das Alienações de Bens Imóveis em Geral
+2.1.1.2.52.0.0 - Operações de Crédito Internas para Programas de Saneamento
+2.1.1.8.00.0.0 - Operações de Crédito - Mercado Interno - Estados/DF/Municípios
+2.1.1.8.00.0.0 Operações de Crédito - Mercado Interno - Estados/DF/Municípios
+2.1.1.8.01.0.0 - Operações de Crédito Internas de Estados/DF/Municípios
+2.1.1.8.01.3.0 - Operações de Crédito Internas para Programas de Saneamento
+2.1.1.8.01.7.0 - Operações de Crédito Internas para Programas de Moradia Popular
+2.1.2.8.01.2.0 - Operações de Crédito Externas para Programas de Saúde
+2.1.2.8.01.5.0 - Operações de Crédito Externas para Programas de Modernização da Administração Pública
+2.2.1.8.00.0.0 Alienação de Bens Móveis Específica para Estados, Distrito Federal e Municípios
+2.3.0.0.07.0.0 - Amortização de Financiamentos
+2.3.1.1.07.0.0 - Amortização de Financiamentos
+2.4.1.1.51.3.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Assistência Farmacêutica
+2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação - FNDE 
+2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação
+2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação
+2.4.1.4.52.0.0 - Transferências de Convênios da União destinadas a Programas de Saneamento Básico
+2.4.1.4.54.0.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte
+2.4.1.8.04.5.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Gestão do SUS
+2.4.1.8.05.0.0 - Transferências de Recursos Destinados a Programas de Educação
+2.4.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais
+2.4.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios
+2.4.4.8.01.0.0 - Transferências de Convênios de Instituições Privadas
+2.4.4.8.10.0.0 - Outras Transferências de Instituições Privadas
+2.4.5.0.00.0.0 - Transferências de Outras Instituições Públicas
+2.4.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios
+7.2.1.0.06.0.0 - Contribuição para os Fundos de Assistência Médico
+7.2.1.6.00.0.0 - Contribuição para Fundos de Assistência Médica
+7.2.1.6.00.0.0 -Contribuição para Fundos de Assistência Médico-Hospitalar e Social 
+7.2.1.6.01.0.0 - Contribuição para Fundos de Assistência Médica - Policiais Militares
+7.2.1.6.01.1.0 - Contribuição para Fundos de Assistência Médica - Policiais Militares
+7.2.1.6.02.0.0 - Contribuição para Fundos de Assistência Médica - Bombeiros Militares
+7.2.1.6.02.1.0 - Contribuição para Fundos de Assistência Médica - Bombeiros Militares
+7.2.1.6.03.0.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis
+7.2.1.6.03.1.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis
+7.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais
+7.6.3.8.01.9.0 - Outros Serviços de Saúde
+8.9.0.0.00.0.0 - Outras Receitas de Capital
+1.1.1.8.02.5.0 Imposto sobre Vendas a Varejo de Combustíveis Líquidos e Gasosos (IVVC)
+1.2.1.9.99.1.0 - Demais Contribuições Sociais
+1.3.2.1.00.5.0 - Juros de Títulos de Renda
+1.3.2.1.05.0.0 - Juros de Títulos de Renda
+1.3.2.1.06.0.0 - Juros sobre o Capital Próprio
+1.3.3.2.00.0.0 - Delegação dos Serviços de Infraestrutura
+1.3.5.0.00.0.0 - Exploração do Patrimônio Intangível
+1.3.5.0.04.0.0 - Royalties pela Comercialização de Produtos Resultantes de Criação Protegida
+1.3.5.1.00.0.0 - Exploração do Patrimônio Intangível
+1.3.5.1.01.0.0 - Outorga de Direito de Uso ou de Exploração de Criação Protegida - Instituição Científica e Tecnológica
+1.6.2.0.04.0.0 - Serviços Aeroportuários
+1.6.2.0.04.1.0 - Tarifa Aeroportuária
+1.6.2.1.01.0.0 - Serviços de Navegação
+1.6.2.1.01.1.0 - Serviços de Navegação Aérea
+1.6.2.1.04.0.0 - Serviços Aeroportuários
+1.6.2.1.04.1.0 - Tarifa Aeroportuária
+1.6.3.1.50.0.0 - Serviços Hospitalares
+1.6.3.1.52.0.0 - Serviços Radiológicos e Laboratoriais
+1.6.3.8.01.1.0 - Serviços Hospitalares
+1.6.3.8.01.3.0 - Serviços Radiológicos e Laboratoriais
+1.7.1.8.04.6.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS, não detalhadas anteriormente
+1.7.3.2.50.0.0 - Transferências de Convênios dos Municípios para o Sistema Único de Saúde - SUS
+1.7.3.8.01.0.0 Transferências de Recursos do Sistema Único de Saúde - SUS
+1.7.3.8.10.1.0 - Transferências de Convênio dos Municípios para o Sistema Único de Saúde - SUS
+1.7.3.8.10.1.0 Transferências de Convênio dos Municípios para o Sistema Único de Saúde - SUS
+1.7.5.8.99.0.0 Outras Transferências Multigovernamentais
+1.9.1.0.04.0.0 - Multas Previstas na Legislação sobre Defesa dos Direitos Difusos
+1.9.1.1.04.0.0 - Multas Previstas na Legislação sobre Defesa dos Direitos Difusos
+2.1.1.2.54.0.0 - Operações de Crédito Internas para Programas de Modernização da Administração Pública
+2.1.1.8.01.1.0 - Operações de Crédito Internas para Programas de Educação
+2.1.1.8.01.5.0 - Operações de Crédito Internas para Programas de Modernização da Administração Pública
+2.1.2.2.51.0.0 - Operações de Crédito Externas para Programas de Saúde
+2.1.2.2.54.0.0 - Operações de Crédito Externas para Programas de Modernização da Administração Pública
+2.2.1.8.01.0.0 - Alienação de Títulos Mobiliários
+2.2.1.8.01.2.0 - Alienação de Investimentos Permanentes
+2.4.1.1.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária
+2.4.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS
+2.4.1.9.50.0.0 - Transferências da União a Consórcios Públicos
+2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades
+2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades
+2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades
+2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados
+2.4.4.0.00.1.0 Transferências de Instituições Privadas
+2.4.6.0.00.0.0 - Transferências do Exterior
+2.4.6.0.00.1.0 Transferências do Exterior
+2.4.6.8.00.0.0 - Transferências do Exterior - Específicas de Estados, DF e Municípios
+2.4.6.8.00.0.0 Transferências do Exterior - Específicas de Estados, DF e Municípios
+2.4.6.8.01.0.0 - Transferências do Exterior
+2.4.6.8.01.9.0 - Outras Transferências do Exterior Não Especificadas Anteiormente
+2.4.6.8.10.1.0 - Outras Transferências do Exterior Não Especificadas Anteiormente
+7.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais
+1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana
+1.1.1.2.53.0.0 - Impostos sobre Transmissão "Inter Vivos" de Bens Imóveis e de Direitos Reais sobre Imóveis
+1.1.1.3.03.2.0 - Imposto sobre a Renda - Retido na Fonte - Capital
+1.1.1.3.03.3.0 - Imposto sobre a Renda - Retido na Fonte - Remessa ao Exterior
+1.1.1.4.51.0.0 - Impostos sobre Serviços
+1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN
+1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana
+1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana
+1.1.1.8.01.4.0 - Imposto sobre Transmissão -Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis
+1.1.1.8.01.4.0 Imposto sobre Transmissão -Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis
+1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza
+1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza
+1.1.1.9.00.0.0 - Outros Impostos
+1.2.1.6.03.2.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis - Parcelamentos
+1.2.2.0.06.0.0 - Contribuição sobre as Receitas de Concessionárias e Permissionárias de Energia Elétrica
+1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública
+1.3.4.1.00.0.0 - Petróleo - Regime de Concessão
+1.3.4.1.01.0.0 - Outorga de Exploração e Produção de Petróleo e Gás Natural - Regime de Concessão
+1.3.4.1.01.1.0 - Bônus de Assinatura do Contrato de Concessão
+1.6.3.0.02.0.0 - Serviços de Assistência à Saúde de Servidores Civis e Militares
+1.6.3.0.02.1.0 - Serviços de Assistência à Saúde Suplementar do Servidor Civil
+1.6.3.2.00.0.0 - Serviços de Assistência à Saúde de Servidores Civis e Militares
+1.6.3.2.01.0.0 -Serviços de Assistência à Saúde Suplementar de Servidores Civis
+1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM
+1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal
+1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural
+1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal
+1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal
+1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural
+1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural
+1.7.1.8.06.0.0 - Transferência Financeira do ICMS - Desoneração ¿ L.C. Nº 87/96
+1.7.1.9.51.0.0 - Transferências Financeiras do ICMS - Desoneração ¿ L.C. Nº 87/96
+1.7.1.9.54.0.0 -Transferências de Recursos do Fundo Nacional de Segurança Pública - FNSP
+1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal
+1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF
+1.7.9.1.01.0.0 - Transferências de Pessoas Físicas para Órgãos e Entidades da União
+1.9.2.2.05.0.0 - Restituição de Contribuições Previdenciárias Complementares
+1.9.2.2.09.0.0 - Restituição de Recursos de Fomento
+1.9.2.3.04.0.0 - Ressarcimento ao Regime Geral de Previdência Social - RGPS
+1.9.9.0.12.1.0 - Encargos Legais pela Inscrição em Dívida Ativa
+1.9.9.9.12.1.0 - Encargos Legais pela Inscrição em Dívida Ativa
+2.1.1.2.01.0.0 - Operações de Crédito Contratuais - Mercado Interno
+2.4.1.0.00.1.0 Transferências da União e de suas Entidades
+2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Atenção Primária
+2.4.1.4.53.0.0 - Transferências de Convênios da União destinadas a Programas de Meio Ambiente
+2.4.1.8.03.1.0 - Transferência de Recursos do SUS - Atenção Primária
+7.2.1.4.49.0.0 - Contribuições para o Regime Geral de Previdência Social - RGPS - Parcelamentos
+7.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN
+7.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo
+7.6.1.1.03.0.0 - Serviços de Registro, Certificação e Fiscalização
+7.6.2.0.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte
+7.6.2.0.02.0.0 - Serviços de Transporte
+7.6.2.1.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte
+7.6.2.1.02.0.0 - Serviços de Transporte de Passageiros ou Mercadorias
+7.6.3.2.00.0.0 - Serviços de Assistência à Saúde de Servidores Civis e Militares
+7.6.3.2.01.0.0 -Serviços de Assistência à Saúde Suplementar de Servidores Civis
+1.2.1.5.00.0.0 - Contribuição para o Plano de Seguridade Social do Servidor Público - CPSSS
+1.2.1.5.01.0.0 - CPSSS - Servidor Civil
+1.2.1.5.01.1.0 - CPSSS - Servidor Civil Ativo
+1.2.1.5.01.2.0 - CPSSS - Servidor Civil Inativo
+1.2.1.5.01.3.0 - CPSSS - Servidor Civil - Pensionistas
+1.2.1.5.02.0.0 - CPSSS Patronal
+1.2.1.5.02.1.0 - CPSSS Patronal - Servidor Civil
+1.2.1.5.02.2.0 - Contribuição Patronal Oriunda de Sentenças Judiciais - Servidor Civil Ativo
+1.2.1.8.07.1.0 - Contribuição Patronal - Militar Ativo
+1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais
+1.3.2.1.03.0.0 - Remuneração de Saldos de Recursos Não-Desembolsados
+1.3.3.3.00.0.0 - Delegação dos Serviços de Telecomunicação
+1.3.3.3.00.9.0 - Outras Delegações dos Serviços de Telecomunicação
+1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária
+1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%)
+1.7.2.8.02.3.0 Cota-parte Royalties - Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º
+1.7.3.8.01.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS
+1.9.1.1.13.0.0 - Multas Previstas na Legislação Anticorrupção.
+1.9.1.1.13.1.0 - Multas da Legislação Anticorrupção Oriundas de Processos Administrativos de Responsabilização.
+1.9.3.1.03.0.0 - Depósitos Abandonados (Dinheiro e/ou Objetos de Valor)
+2.1.2.2.53.0.0 - Operações de Crédito Externas para Programas de Meio Ambiente
+2.2.1.1.00.0.0 - Alienação de Títulos, Valores Mobiliários e Aplicações Congêneres
+2.3.0.0.03.0.0 - Amortização de Empréstimos - Estados e Municípios
+2.4.2.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde - SUS
+2.4.2.8.99.0.0 Outras Transferências dos Estados
+2.4.4.8.00.0.0 - Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios
+2.9.9.8.00.0.0 Demais Receitas de Capital Específicas de Estados, DF e Municípios
+7.2.1.0.05.0.0 - Contribuição para o Custeio das Pensões Militares - Intraorçamentárias
+7.2.1.5.01.0.0 - Contribuição do Servidor Civil
+7.2.1.5.02.2.0 -Contribuição Patronal Oriunda de Sentenças Judiciais - Servidor Civil Ativo
+1.1.2.1.05.0.0 - Taxa de Controle e Fiscalização da Pesca e Aquicultura
+1.2.1.0.04.6.0 - Contribuição do Servidor Ativo ao RPPS Oriunda de Sentenças Judiciais
+1.2.1.0.04.7.0 - Contribuição do Servidor Inativo ao RPPS Oriunda de Sentenças Judiciais
+1.2.1.0.04.8.0 - Contribuição do Pensionista ao RPPS Oriunda de Sentenças Judiciais
+1.2.1.5.01.5.0 - Contribuição Oriunda de Sentenças Judiciais - Servidor Civil Inativo
+1.2.1.5.53.0.0 - Contribuição Patronal para o Sistema de Proteção Social dos Militares
+1.2.1.5.53.1.0 - Contribuição Patronal - Militar Ativo
+1.2.1.5.56.0.0 - Contribuição do Militar para o Sistema de Proteção Social dos Militares, Oriunda de Sentenças Judiciais
+1.2.1.5.56.1.0 - Contribuição do Militar Oriunda de Sentenças Judiciais - Militar Ativo
+1.2.1.5.56.2.0 - Contribuição do Militar Oriunda de Sentenças Judiciais - Militar Inativo
+1.2.1.8.01.5.0 - CPSSS Oriunda de Sentenças Judiciais - Servidor Civil Inativo
+1.2.1.8.01.6.0 - CPSSS Oriunda de Sentenças Judiciais - Servidor Civil - Pensionistas
+1.2.1.8.02.1.0 Contribuição Patronal do Militar Ativo
+1.2.1.8.07.0.0 - Contribuição Patronal para o Sistema de Proteção Social dos Militares - SPSM de Estados e DF
+1.2.1.8.07.1.0 - Contribuição Patronal para o SPSM - Militar Ativo
+1.3.3.2.04.0.0 - Delegação para Exploração da Infraestrutura Aeroportuária
+1.3.3.3.00.3.0 - Delegação dos Serviços de Radiodifusão Sonora e de Sons e Imagens
+1.3.3.3.03.0.0 - Delegação dos Serviços de Radiodifusão Sonora e de Sons e Imagens
+1.3.4.9.99.0.0 - Outras Delegações para Exploração de Recursos Naturais
+1.6.3.0.02.2.0 - Serviços de Assistência Médico-Hospitalar do Militar
+1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação
+1.7.5.0.00.1.0 - Transferências de Outras Instituições Públicas
+1.7.5.9.00.0.0 - Demais Transferências de Outras Instituições Públicas
+1.9.2.2.12.0.0 - Restituição de Depósitos de Setenças Judiciais não Sacados
+1.9.4.4.00.0.0 - Multas e Juros de Mora das Amortizações de Empréstimos
+1.9.4.4.06.0.0 - Multas e Juros de Mora de Amortização de Empréstimos Contratuais
+2.2.3.0.00.0.0 - Alienação de Bens Intangíveis
+2.4.1.8.03.3.0 - Transferência de Recursos do SUS - Vigilância em Saúde
+2.4.3.8.01.0.0 Transferências de Municípios a Consórcios Públicos
+2.4.5.0.00.1.0 Transferências de Outras Instituições Públicas
+7.2.1.5.56.0.0 - Contribuição do Militar para o Sistema de Proteção Social dos Militares, Oriunda de Sentenças Judiciais
+7.2.1.5.56.1.0 - Contribuição do Militar Oriunda de Sentenças Judiciais - Militar Ativo
+7.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas
+8.0.0.0.00.0.0 - Receitas de Capital - Intraorçamentárias
+8.2.0.0.00.0.0 - Alienação de Bens
+8.2.2.0.00.0.0 - Alienação de Bens Imóveis
+8.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades
+1.7.1.3.51.3.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Vigilância em Saúde
+1.7.1.4.54.0.0 - Transferências referentes ao Programa Nacional de Inclusão de Jovens - Projovem
+1.7.1.4.54.2.0 - Transferências referentes ao Programa Nacional de Inclusão de Jovens - Projovem Campo
+1.7.1.7.53.0.0 - Transferências de Convênios da União Destinadas a Programas de Combate à Fome
+1.7.1.9.55.0.0 - Outras Transferências para Segurança Pública
+1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais
+1.7.2.2.53.0.0 - Outras Transferências Decorrentes de Compensações Financeiras
+1.7.9.1.50.0.0 - Transferências de Pessoas Físicas - Programas de Saúde
+1.7.9.2.00.0.0 - Transferências Provenientes de Depósitos Não Identificados
+1.9.9.9.11.0.0 - Variação Cambial
+2.4.3.0.00.1.0 Transferências dos Municípios e de suas Entidades
+2.4.6.1.00.0.0 - Transferências do Exterior
+2.4.6.1.99.0.0 - Outras Transferências do Exterior
+1.1.1.1.00.0.0 - Impostos sobre o Comércio Exterior
+1.1.1.1.01.0.0 - Imposto sobre a Importação
+1.1.1.1.02.0.0 - Imposto sobre a Exportação
+1.1.1.4.00.0.0 - Impostos sobre a Produção, Circulação e Serviços
+1.1.1.4.01.0.0 - Imposto sobre Produtos Industrializados - IPI
+1.1.1.4.01.1.0 - Imposto sobre Produtos Industrializados - IPI - Fumo
+1.1.1.4.01.2.0 - Imposto sobre Produtos Industrializados - IPI- Bebidas
+1.1.1.4.01.3.0 - Imposto sobre Produtos Industrializados - IPI - Automóveis
+1.1.1.4.01.4.0 - Imposto sobre Produtos Industrializados - IPI - Vinculados à Importação
+1.1.1.4.01.5.0 - Imposto sobre Produtos Industrializados - IPI - Outros Produtos
+1.1.1.5.00.0.0 - Impostos sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários
+1.1.1.5.01.0.0 - Imposto sobre Operações Financeiras - IOF
+1.1.1.5.01.1.0 - Imposto sobre Operações Financeiras - IOF - Ouro
+1.1.1.5.01.2.0 - Imposto sobre Operações Financeiras - IOF - Demais Operações
+1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações
+1.1.2.1.03.0.0 - Taxa de Controle e Fiscalização de Produtos Químicos
+1.2.1.0.01.0.0 - Contribuição para o Financiamento da Seguridade Social - COFINS
+1.2.1.0.02.0.0 - Contribuição Social sobre o Lucro Líquido - CSLL
+1.2.1.0.03.0.0 - Contribuições para o Regime Geral de Previdência Social - RGPS
+1.2.1.0.04.5.0 - Contribuição Patronal para o RPPS Oriunda de Sentenças Judiciais
+1.2.1.0.05.0.0 - Contribuição para o Custeio das Pensões Militares
+1.2.1.0.06.2.0 - Contribuição para os Fundos de Assistência Médica dos Bombeiros Militares
+1.2.1.0.07.0.0 - Contribuições sobre Concursos de Prognósticos e Sorteios
+1.2.1.0.08.0.0 - Contribuição sobre Sorteios Realizados por Entidades Filantrópicas
+1.2.1.0.09.0.0 - Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS e PASEP
+1.2.1.0.10.0.0 - Cota-Parte da Contribuição Sindical
+1.2.1.0.11.0.0 - Contribuições Referentes ao Fundo de Garantia do Tempo de Serviço - FGTS
+1.2.1.0.11.1.0 - Contribuição Relativa à Despedida de Empregado sem Justa Causa
+1.2.1.0.11.2.0 - Contribuição sobre a Remuneração Devida ao Trabalhador
+1.2.1.0.12.0.0 - Contribuição Social do Salário-Educação
+1.2.1.0.13.0.0 - Contribuição para o Ensino Aeroviário
+1.2.1.0.14.0.0 - Contribuição para o Desenvolvimento do Ensino Profissional Marítimo
+1.2.1.0.15.0.0 - Contribuição sobre a Arrecadação dos Fundos de Investimentos Regionais
+1.2.1.0.16.0.0 - Contribuição Industrial Rural
+1.2.1.0.17.0.0 - Adicional à Contribuição Previdenciária Rural
+1.2.1.0.18.0.0 - Contribuição sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira
+1.2.1.8.01.0.0 Contribuições para o Regime Próprio de Previdência Social - RPPS de Estados/DF/Municípios
+1.2.1.8.01.1.0 Contribuição Previdenciária para Amortização do Déficit Atuarial
+1.2.1.8.01.2.0 Contribuição Patronal dos Servidores Civis Inativos
+1.2.1.8.01.3.0 Contribuição Patronal dos Pensionistas Civis
+1.2.1.8.02.5.0 Contribuição Patronal do Militar Inativo
+1.2.1.8.02.6.0 Contribuição Patronal dos Pensionistas Militares
+1.2.2.1.50.0.0 - Contribuições Econômicas sobre Commodities
+1.2.2.8.00.0.0 - Contribuições Econômicas Específicas de Estados e Municípios
+1.2.2.8.01.0.0 - Contribuições Econômicas sobre Commodities
+1.2.3.0.00.0.0 - Contribuições para Entidades Privadas de Serviço Social e de Formação Profissional
+1.3.4.2.00.0.0 - Petróleo - Regime de Cessão Onerosa
+1.3.4.3.00.0.0 - Petróleo - Regime de Partilha de Produção
+1.3.4.6.00.0.0 - Exploração de Recursos Florestais
+1.6.2.0.01.0.0 - Serviços de Navegação
+1.6.4.0.02.0.0 - Concessão de Avais, Garantias e Seguros
+1.6.4.0.03.0.0 - Remuneração sobre Repasse para Programas de Desenvolvimento Econômico
+1.6.4.1.02.0.0 - Concessão de Avais, Garantias e Seguros
+1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios - 1% Cota entregue no mês de dezembro
+1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho
+1.7.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Atenção Especializada
+1.7.1.8.07.0.0 Transferências da União a Consórcios Públicos
+1.7.1.8.10.5.0 Transferências de Convênios da União Destinadas a Programas de Saneamento Básico
+1.7.2.8.01.0.0 Participação na Receita dos Estados
+1.7.2.8.01.1.0 Cota-Parte do ICMS
+1.7.2.8.01.2.0 Cota-Parte do IPVA
+1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios
+1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico
+1.7.2.8.01.5.0 Outras Participações na Receita dos Estados
+1.7.2.8.01.9.0 Outras Transferências dos Estados
+1.7.2.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos
+1.7.2.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM
+1.7.2.8.02.9.0 Outras Transferências Decorrentes de Compensações Financeiras
+1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo
+1.7.2.8.04.0.0 Transferências de Estados a Consórcios Públicos
+1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social
+1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde - SUS
+1.7.2.8.99.0.0 Outras Transferências dos Estados
+1.7.3.8.02.0.0 Transferências de Municípios a Consórcios Públicos
+1.7.3.8.10.2.0 Transferências de Convênio dos Municípios destinadas a Programas de Educação
+1.9.1.0.13.0.0 - Multas Previstas na Legislação Anticorrupção.
+1.9.1.0.13.1.0 - Multas da Legislação Anticorrupção Oriundas de Processos Administrativos de Responsabilização.
+1.9.1.1.13.2.0 - Multas da Legislação Anticorrupção Oriundas de Acordos de Leniência
+1.9.2.2.04.0.0 - Restituição de Benefícios Assistenciais
+1.9.2.2.07.0.0 - Restituição de Parcelas do Seguro Desemprego Recebidas Indevidamente
+1.9.2.2.10.0.0 - Restituição Decorrente da Não Aplicação de Incentivos Fiscais
+1.9.2.2.10.1.0 - Restituição Decorrente da Não Aplicação de Incentivos Fiscais Relativos à Lei Rouanet
+1.9.2.2.11.0.0 - Restituição Decorrente da Aplicação Irregular de Recursos Eleitorais
+1.9.2.3.01.0.0 - Ressarcimento por Operadoras de Seguros Privados de Assistência a Saúde
+1.9.3.0.02.2.0 - Alienação de Bens e Mercadorias Associados ao Tráfico Ilícito de Entorpecentes e Drogas Afins
+1.9.3.1.01.0.0 - Bens, Direitos e Valores Perdidos em Favor do Poder Público
+1.9.3.1.02.2.0 - Alienação de Bens e Mercadorias Associados ao Tráfico Ilícito de Entorpecentes e Drogas Afins
+1.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS
+1.9.9.0.02.0.0 - Aportes Periódicos para Compensações ao RGPS
+1.9.9.0.04.0.0 - Contribuição ao Montepio Civil
+1.9.9.0.05.0.0 - Barreiras Técnicas ao Comércio Exterior
+1.9.9.0.06.0.0 - Contrapartida de Subvenções ou Subsídios
+1.9.9.0.07.0.0 - Disponibilidades de Recursos do Fundo Social
+1.9.9.0.08.0.0 - Prêmio do Seguro Obrigatório de Danos Pessoais causados por Veículos Automotores de Via Terrestre - DPVAT
+1.9.9.0.09.0.0 - Prestação de Contas Eleitorais
+1.9.9.0.10.0.0 - Reserva Global de Reversão
+2.1.1.1.00.0.0 Títulos de Responsabilidade do Tesouro Nacional - Mercado Interno
+2.1.1.3.00.0.0 Empréstimos Compulsórios
+2.1.2.1.00.0.0 Títulos de Responsabilidade do Tesouro Nacional - Mercado Externo
+2.2.1.1.00.0.0 Alienação de Títulos Mobiliários
+2.2.1.2.00.0.0 Alienação de Estoques
+2.4.1.8.01.0.0 Transferências da União a Consórcios Públicos
+2.4.2.0.00.1.0 Transferências dos Estados e do Distrito Federal e de suas Entidades
+2.4.2.8.01.0.0 Transferências dos Estados e Distrito Federal a Consórcios Públicos
+2.4.2.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação
+2.4.3.8.99.0.0 Outras Transferências dos Municípios
+2.4.7.0.00.0.0 - Transferências de Pessoas Físicas
+2.4.7.0.00.1.0 Transferências de Pessoas Físicas
+2.4.7.8.00.0.0 - Transferências de Pessoas Físicas - Específicas de Estados, DF e Municípios
+2.4.7.8.00.0.0 Transferências de Pessoas Físicas - Específicas de Estados, DF e Municípios
+2.4.7.8.01.0.0 - Transferências de Pessoas Físicas
+2.4.7.8.01.1.0 - Transferências de Pessoas Físicas para Programas de Saúde
+2.4.8.0.00.0.0 - Transferências Provenientes de Depósito Não Identificados
+2.4.8.0.00.0.0 - Transferências Provenientes de Depósitos Não Identificados
+2.4.8.0.00.1.0 Transferências Provenientes de Depósito Não Identificados
+2.4.8.8.00.0.0 - Transferências Provenientes de Depósitos Não Identificados - Específica E/DF/M
+2.4.8.8.00.0.0 Transferências Provenientes de Depósito Não Identificados - Específica E/DF/M
+2.9.1.0.00.0.0 - Integralização de Capital Social
+2.9.4.0.00.0.0 - Resgate de Títulos do Tesouro
+7.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS - Intraorçamentárias
+7.2.1.0.04.3.0 - Contribuição do Servidor Inativo para o RPPS - Intraorçamentárias
+7.2.1.0.04.4.0 - Contribuição do Pensionista para o RPPS - Intraorçamentárias
+7.2.1.0.04.5.0 - Contribuição Patronal para o RPPS Oriunda de Sentenças Judiciais
+7.2.1.0.04.6.0 - Contribuição do Servidor Ativo ao RPPS Oriunda de Sentenças Judiciais
+7.2.1.0.04.7.0 Contribuição do Servidor Inativo ao RPPS Oriunda de Sentenças Judiciais
+7.2.1.0.04.8.0 Contribuição do Pensionista ao RPPS Oriunda de Sentenças Judiciais
+7.2.1.8.02.3.0 Contribuição do Militar Inativo
+7.2.1.8.02.4.0 Contribuição dos Pensionistas Militares
+7.2.2.0.00.0.0 - Contribuições Econômicas - Intraorçamentárias
+7.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública - Intraorçamentárias
+7.4.0.0.00.0.0 - Receita Agropecuária - Intraorçamentárias
+1.3.3.2.01.0.0 - Delegação para Exploração da Infraestrutura de Transporte Rodoviário
+1.3.3.2.01.1.0 - Delegação para Exploração da Infraestrutura de Transporte Rodoviário para o Setor Privado
+1.6.3.1.53.0.0 - Serviços Ambulatoriais
+1.7.2.2.50.0.0 - Cota-parte da Compensação Financeira de Recursos Hídricos
+1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação
+1.7.9.1.51.0.0 - Transferências de Pessoas Físicas - - Programas de Educação
+1.9.2.1.02.0.0 - Indenização por Posse ou Ocupação Ilícita de Bens Públicos
+1.9.4.4.07.0.0 - Multas e Juros de Mora de Amortização de Financiamentos
+1.9.4.4.07.1.0 - Multas e Juros de Mora de Amortização de Financiamentos em Geral
+2.4.1.1.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS
+2.4.1.3.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS 
+2.4.1.3.50.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social - FNAS
+2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades 
+2.4.2.2.52.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Saneamento Básico
+2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades
+2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades
+2.4.2.8.10.5.0 - Transferências de Convênios dos Estados destinadas a Programas de Saneamento Básico
+2.4.4.1.51.0.0 - Transferências de Convênios de Instituições Privadas Destinados a Programas de Educação
+7.2.1.5.51.0.0 - Contribuição Patronal - Parcelamentos
+7.2.1.5.51.1.0 - Contribuição Patronal - Servidor Civil Ativo - Parcelamentos
+7.2.1.8.08.0.0 - Contribuição Patronal para Previdência Militar de Estados e DF - Parcelamentos
+7.2.1.8.08.0.0 - Contribuição Patronal para o Sistema de Proteção Social dos Militares - SPSM - Parcelamentos - de Estados e DF
+7.2.1.8.08.1.0 - Contribuição Patronal - Parcelamentos - Militar Ativo
+7.2.1.8.08.1.0 - Contribuição Patronal - Parcelamentos - para o SPSM - Militar Ativo
+7.3.6.0.00.0.0 - Cessão de Direitos
+7.3.6.0.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos
+7.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS
+1.7.2.2.51.0.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM
+1.7.3.0.00.1.0 - Transferências dos Municípios e de suas Entidades
+1.7.3.8.10.2.0 - Transferências de Convênio dos Municípios destinadas a Programas de Educação
+1.7.4.1.01.0.0 - Outras Transferências de Instituições Privadas
+2.1.1.8.01.4.0 - Operações de Crédito Internas para Programas de Meio Ambiente
+2.2.1.1.00.0.0 - Alienação de Títulos Mobiliários
+2.2.1.8.00.0.0 - Alienação de Bens Móveis Específica para Estados, Distrito Federal e Municípios
+2.4.1.2.50.1.0 - Transferências para o Programa de Apoio ao Transporte Escolar para Educação Básica - CAMINHO DA ESCOLA
+2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde - SUS Destinados à Atenção Primária
+2.4.2.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS dos Estados e DF
+2.4.2.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS
+2.4.2.2.54.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Infraestrutura em Transporte
+2.4.2.8.10.7.0 - Transferências de Convênios dos Estados destinadas a Programas de Infraestrutura em Transporte
+2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados
+2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados
+2.4.3.2.50.0.0 - Transferências de Convênios dos Municípios destinados a Programas de Saúde
+2.4.3.2.51.0.0 - Transferências de Convênios dos Municípios destinadas a Programas de Educação
+2.4.3.8.10.2.0 - Transferências de Convênios dos Municípios destinadas a Programas de Educação
+2.4.4.0.00.1.0 - Transferências de Instituições Privadas
+2.4.7.0.00.1.0 - Transferências de Pessoas Físicas
+2.4.9.0.00.0.0 - Demais Transferências de Capital
+2.4.9.1.00.0.0 - Transferências de Pessoas Físicas
+2.4.9.1.99.0.0 - Outras Transferências de Pessoas Físicas
+7.2.1.5.53.2.0 - Contribuição Patronal - Militar Inativo
+7.2.1.8.08.2.0 - Contribuição Patronal - Parcelamentos - Militar Inativo
+7.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos
+7.3.1.1.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos
+7.4.0.0.00.0.0 - Receita Agropecuária
+7.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores
+1.6.3.8.01.4.0 - Serviços Ambulatoriais
+1.7.1.7.54.0.0 - Transferências de Convênios da União Destinadas a Programas de Saneamento Básico
+1.7.1.8.02.9.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais
+1.7.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Vigilância em Saúde
+1.9.1.0.10.0.0 - Multas Previstas na Legislação sobre Regime de Previdência Privada Complementar
+2.1.1.8.01.6.0 - Operações de Crédito Internas para Refinanciamento da Dívida Contratual
+2.2.1.8.01.1.0 - Alienação de Investimentos Temporários
+2.4.2.8.10.2.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação
+2.4.5.1.00.0.0 - Transferências de Outras Instituições Públicas
+2.4.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios
+1.2.1.5.01.6.0 - Contribuição Oriunda de Sentenças Judiciais - Servidor Civil - Pensionistas
+1.2.1.5.03.0.0 - Contribuição do Servidor Civil - Parcelamentos
+1.2.1.5.51.0.0 - Contribuição Patronal - Parcelamentos
+1.2.1.5.51.1.0 - Contribuição Patronal - Servidor Civil Ativo - Parcelamentos
+1.2.1.7.00.0.0 - Contribuições sobre Concursos de Prognósticos e Sorteios
+1.2.1.7.04.0.0 - Contribuição sobre Loterias de Números
+1.2.1.7.04.1.0 - Contribuição sobre Loterias de Números
+1.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN
+1.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo
+1.7.5.8.99.0.0 - Outras Transferências Multigovernamentais
+2.4.4.1.50.0.0 - Transferências de Convênios de Instituições Privadas Destinados a Programas de Saúde
+2.4.9.9.00.0.0 - Outras Transferências de Capital
+1.2.1.6.02.2.0 - Contribuição para Fundos de Assistência Médica - Bombeiros Militares - Parcelamentos
+1.3.4.6.01.0.0 - Concessão de Florestas Nacionais
+1.3.4.6.01.2.0 - Concessão de Florestas Nacionais - Demais Valores
+1.3.4.6.02.0.0 - Concessão de Florestas Não Catalogadas como -Florestas Nacionais¿
+1.3.4.6.02.0.0 - Outras Concessões Florestais
+1.3.4.6.02.2.0 - Concessão de Florestas Não Catalogadas como -Florestas Nacionais¿ - Demais Valores
+1.3.4.6.02.2.0 - Outras Concessões Florestais - Demais Valores
+1.3.4.6.99.0.0 - Demais Receitas de Concessão Florestal
+1.3.4.6.99.1.0 - Custos de Edital de Concessão Florestal
+1.3.4.6.99.2.0 - Contratos de Transição de Concessão Florestal
+1.7.4.1.01.0.0 - Transferências de Instituições Privadas para Órgãos e Entidades da União
+2.1.1.2.50.0.0 - Operações de Crédito Internas para Programas de Educação
+2.4.3.8.10.1.0 - Transferências de Convênios dos Municípios destinados a Programas de Saúde
+7.2.1.5.53.3.0 - Contribuição Patronal - Pensionistas Militares
+1.7.1.1.98.0.0 - Transferências Decorrentes de Participação em Outras Receitas de Impostos da União
+1.9.3.0.03.0.0 - Depósitos Abandonados (Dinheiro e/ou Objetos de Valor)
+2.4.7.8.01.9.0 - Outras Transferências de Pessoas Físicas Não Especificadas Anteriormente
+7.6.3.8.01.4.0 - Serviços Ambulatoriais
+1.7.1.8.13.0.0 - Transferências Decorrentes de Decisão Judicial (precatórios) Relativas ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF
+2.4.1.8.04.4.0 - Transferências de Recursos do Sistema Único de Saúde - SUS destinados à Gestão e Desenvolvimento de Tecnologias em Saúde no SUS
+2.4.3.2.01.0.0 - Transferências de Convênios dos Municípios e de Suas Entidades para Órgãos e Entidades da União
+7.2.1.8.07.2.0 - Contribuição Patronal para o SPSM - Militar Inativo
+7.2.1.8.07.3.0 - Contribuição Patronal para o SPSM - Pensionistas Militares
+7.2.1.8.05.0.0 - Contribuição dos Militares e Pensionistas para Previdência Militar de Estados e DF
+1.3.5.0.03.0.0 - Royalties pela Exploração do Patrimônio Genético ou Conhecimento Tradicional Associado
+1.3.5.1.03.0.0 - Royalties pela Exploração do Patrimônio Genético ou Conhecimento Tradicional Associado
+1.6.2.1.01.2.0 - Serviços de Navegação Naval
+1.7.4.1.51.0.0 - Transferências de Convênios de Instituições Privadas para Programas de Educação
+1.7.7.8.10.1.0 - Outras Transferência de Convênios do Exterior - Específicas de E/DF/M - Não Especificadas Anteriormente
+2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades
+7.2.1.6.04.0.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+7.2.1.6.04.1.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+7.2.1.6.99.0.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+7.2.1.6.99.1.0 - Contribuição para Fundos de Assistência Médica - Outros Beneficiários
+7.6.3.8.01.3.0 - Serviços Radiológicos e Laboratoriais
+1.3.3.1.03.0.0 - Delegação para a Prestação dos Serviços de Transporte Metroviário
+1.3.4.5.03.0.0 - Compensação Financeira com a Exploração de Recursos Hídricos
+1.3.4.5.03.0.0 - Compensação Financeira pela Exploração de Recursos Hídricos
+1.3.4.5.03.2.0 - Utilização de Recursos Hídricos - Demais Empresas
+1.7.6.1.01.0.0 - Transferências do Exterior para Órgãos e Entidades da União
+1.9.1.0.13.2.0 - Multas da Legislação Anticorrupção Oriundas de Acordos de Leniência
+2.4.4.1.01.0.0 - Transferências de Instituições Privadas para Órgãos e Entidades da União
+2.4.9.1.50.0.0 - Transferências de Pessoas Físicas para Programas de Saúde
+7.3.4.0.00.0.0 - Exploração de Recursos Naturais
+7.3.4.5.00.0.0 - Exploração de Recursos Hídricos
+7.3.4.5.01.0.0 - Outorga de Direitos de Uso de Recursos Hídricos
+8.3.0.0.00.0.0 - Amortização de Empréstimos
+1.3.4.6.99.0.0 - Demais Receitas de Exploração de Recursos Florestais
+1.7.1.0.00.1.0 - Transferências da União e de suas Entidades
+1.7.2.8.99.0.0 - Outras Transferências dos Estados
+1.7.3.9.50.0.0 - Transferências de Municípios a Consórcios Públicos
+2.4.3.9.00.0.0 - Outras Transferências dos Municípios
+2.4.3.9.50.0.0 - Transferências de Municípios a Consórcios Públicos
+2.4.3.9.99.0.0 -Outras Transferências dos Municípios
+2.4.9.2.00.0.0 - Transferências Provenientes de Depósitos Não Identificados
+1.7.1.3.51.4.0 -Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Assistência Farmacêutica
+1.7.1.3.51.9.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Outros Programas
+1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União
+2.4.1.1.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Gestão do SUS
+2.4.2.2.50.0.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS
+2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação
+2.4.6.8.01.1.0 - Transferências do Exterior para Programas de Saúde
+7.2.1.5.03.0.0 - Contribuição do Servidor Civil - Parcelamentos
+7.2.1.8.04.2.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Inativo
+1.2.1.9.99.2.0 - Demais Contribuições Sociais - Parcelamentos
+1.3.5.0.01.0.0 - Outorga de Direito de Uso ou de Exploração de Criação Protegida - Instituição Científica e Tecnológica
+1.7.3.2.01.0.0 - Transferências de Convênios dos Municípios e de Suas Entidades para Órgãos e Entidades da União
+1.9.3.0.01.0.0 - Bens, Direitos e Valores Perdidos em Favor do Poder Público
+2.4.3.8.99.0.0 - Outras Transferências dos Municípios
+7.6.3.0.02.0.0 - Serviços de Assistência à Saúde de Servidores Civis e Militares
+7.6.3.0.02.1.0 - Serviços de Assistência à Saúde Suplementar do Servidor Civil
+7.6.3.0.02.2.0 - Serviços de Assistência Médico-Hospitalar do Militar
+8.2.1.0.00.0.0 - Alienação de Bens Móveis
+1.2.1.7.01.0.0 - Contribuição sobre a Loteria Federal
+1.2.1.7.01.1.0 - Contribuição sobre a Loteria Federal
+1.2.1.7.02.0.0 - Contribuição sobre Loterias Esportivas
+1.2.1.7.02.1.0 - Contribuição sobre Loterias Esportivas
+1.1.3.8.99.0.0 - Outras Contribuições de Melhoria
+1.3.3.1.02.0.0 - Delegação para a Prestação dos Serviços de Transporte Ferroviário
+1.3.3.1.04.0.0 - Delegação para a Prestação dos Serviços de Transporte Aquaviário
+1.3.3.2.01.2.0 - Delegação para Exploração da Infraestrutura de Transporte Rodoviário para os Estados, Distrito Federal e Municípios
+1.6.3.1.51.0.0 - Serviços de Registro, Análise e Controle da Saúde
+1.6.3.8.01.2.0 - Serviços de Registro de Análise e de Controle
+1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação
+2.1.1.2.51.0.0 - Operações de Crédito Internas para Programas de Saúde
+2.1.1.8.01.2.0 - Operações de Crédito Internas para Programas de Saúde
+2.4.1.1.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS
+1.1.3.1.53.0.0 - Contribuição de Melhoria para Pavimentação e Obras Complementares
+1.3.3.4.00.0.0 - Concessão para Prestação de Serviços de Energia Elétrica
+1.3.3.4.01.0.0 - Concessão dos Serviços de Geração, Transmissão ou Distribuição de Energia Elétrica
+2.4.1.8.03.2.0 - Transferência de Recursos do SUS - Atenção Especializada 
+

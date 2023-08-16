@@ -1,0 +1,200 @@
+Período: 2018 a 2022 
+ Índice base: 2018 
+ A preços de: 2022 
+ 
+ Variáveis em R$ : 
+
+ 01 - Legislativa
+01.031 - Ação Legislativa
+01.032 - Controle Externo
+02 - Judiciária
+02.061 - Ação Judiciária
+02.122 - Administração Geral
+03 - Essencial à Justiça
+03.091 - Defesa da Ordem Jurídica
+03.092 - Representação Judicial e Extrajudicial
+03.122 - Administração Geral
+04 - Administração
+04.121 - Planejamento e Orçamento
+04.122 - Administração Geral
+04.123 - Administração Financeira
+04.124 - Controle Interno
+04.125 - Normatização e Fiscalização
+04.126 - Tecnologia da Informação
+04.128 - Formação de Recursos Humanos
+04.129 - Administração de Receitas
+04.130 - Administração de Concessões
+04.131 - Comunicação Social
+06 - Segurança Pública
+06.122 - Administração Geral
+06.181 - Policiamento
+06.182 - Defesa Civil
+06.183 - Informação e Inteligência
+08 - Assistência Social
+08.122 - Administração Geral
+08.241 - Assistência ao Idoso
+08.242 - Assistência ao Portador de Deficiência
+08.243 - Assistência à Criança e ao Adolescente
+08.244 - Assistência Comunitária
+09 - Previdência Social
+09.122 - Administração Geral
+09.271 - Previdência Básica
+09.272 - Previdência do Regime Estatutário
+09.274 - Previdência Especial
+10 - Saúde
+10.122 - Administração Geral
+10.301 - Atenção Básica
+10.302 - Assistência Hospitalar e Ambulatorial
+10.303 - Suporte Profilático e Terapêutico
+10.304 - Vigilância Sanitária
+10.305 - Vigilância Epidemiológica
+10.306 - Alimentação e Nutrição
+11 - Trabalho
+11.122 - Administração Geral
+11.331 - Proteção e Benefícios ao Trabalhador
+11.334 - Fomento ao Trabalho
+12 - Educação
+12.122 - Administração Geral
+12.361 - Ensino Fundamental
+12.362 - Ensino Médio
+12.363 - Ensino Profissional
+12.365 - Educação Infantil
+12.366 - Educação de Jovens e Adultos
+12.367 - Educação Especial
+12.368 - Educação Básica
+13 - Cultura
+13.122 - Administração Geral
+13.391 - Patrimônio Histórico, Artístico e Arqueológico
+13.392 - Difusão Cultural
+14 - Direitos da Cidadania
+14.122 - Administração Geral
+14.421 - Custódia e Reintegração Social
+14.422 - Direitos Individuais, Coletivos e Difusos
+15 - Urbanismo
+15.122 - Administração Geral
+15.451 - Infraestrutura Urbana
+16 - Habitação
+16.122 - Administração Geral
+16.481 - Habitação Rural
+16.482 - Habitação Urbana
+17 - Saneamento
+17.122 - Administração Geral
+17.511 - Saneamento Básico Rural
+17.512 - Saneamento Básico Urbano
+18 - Gestão Ambiental
+18.122 - Administração Geral
+18.541 - Preservação e Conservação Ambiental
+18.542 - Controle Ambiental
+18.543 - Recuperação de Áreas Degradadas
+18.544 - Recursos Hídricos
+19 - Ciência e Tecnologia
+19.122 - Administração Geral
+19.572 - Desenvolvimento Tecnológico e Engenharia
+19.573 - Difusão do Conhecimento Científico e Tecnológico
+20 - Agricultura
+20.122 - Administração Geral
+20.605 - Abastecimento
+20.606 - Extensão Rural
+20.608 - Promoção da Produção Agropecuária
+20.609 - Defesa Agropecuária
+21 - Organização Agrária
+21.122 - Administração Geral
+22 - Indústria
+22.122 - Administração Geral
+22.661 - Promoção Industrial
+22.662 - Produção Industrial
+23 - Comércio e Serviços
+23.122 - Administração Geral
+23.691 - Promoção Comercial
+23.695 - Turismo
+24 - Comunicações
+24.122 - Administração Geral
+24.722 - Telecomunicações
+26 - Transporte
+26.122 - Administração Geral
+26.781 - Transporte Aéreo
+26.782 - Transporte Rodoviário
+26.784 - Transporte Hidroviário
+27 - Desporto e Lazer
+27.811 - Desporto de Rendimento
+27.812 - Desporto Comunitário
+27.813 - Lazer
+28 - Encargos Especiais
+28.843 - Serviço da Dívida Interna
+28.844 - Serviço da Dívida Externa
+28.845 - Outras Transferências
+28.846 - Outros Encargos Especiais
+Despesas Exceto Intraorçamentárias
+Despesas Intraorçamentárias
+FU01 - Demais Subfunções
+FU02 - Demais Subfunções
+FU03 - Demais Subfunções
+FU04 - Demais Subfunções
+FU06 - Demais Subfunções
+FU08 - Demais Subfunções
+FU09 - Demais Subfunções
+FU10 - Demais Subfunções
+FU11 - Demais Subfunções
+FU12 - Demais Subfunções
+FU13 - Demais Subfunções
+FU14 - Demais Subfunções
+FU15 - Demais Subfunções
+FU17 - Demais Subfunções
+FU18 - Demais Subfunções
+FU19 - Demais Subfunções
+FU20 - Demais Subfunções
+FU21 - Demais Subfunções
+FU22 - Demais Subfunções
+FU23 - Demais Subfunções
+FU24 - Demais Subfunções
+FU26 - Demais Subfunções
+FU27 - Demais Subfunções
+01.122 - Administração Geral
+02.062 - Defesa do Interesse Público no Processo Judiciário
+04.127 - Ordenamento Territorial
+11.332 - Relações de Trabalho
+11.333 - Empregabilidade
+12.364 - Ensino Superior
+19.571 - Desenvolvimento Científico
+20.607 - Irrigação
+21.631 - Reforma Agrária
+22.663 - Mineração
+23.692 - Comercialização
+23.694 - Serviços Financeiros
+25 - Energia
+25.752 - Energia Elétrica
+26.785 - Transportes Especiais
+27.122 - Administração Geral
+FU16 - Demais Subfunções
+14.423 - Assistência aos Povos Indígenas
+15.452 - Serviços Urbanos
+24.721 - Comunicações Postais
+25.753 - Combustíveis Minerais
+25.122 - Administração Geral
+FU28 - Demais Subfunções
+15.453 - Transportes Coletivos Urbanos
+22.665 - Normalização e Qualidade
+26.783 - Transporte Ferroviário
+28.841 - Refinanciamento da Dívida Interna
+28.842 - Refinanciamento da Dívida Externa
+FU25 - Demais Subfunções
+09.273 - Previdência Complementar
+23.693 - Comércio Exterior
+25.751 - Conservação de Energia
+21.632 - Colonização
+05 - Defesa Nacional
+05.122 - Administração Geral
+05.151 - Defesa Área
+05.152 - Defesa Naval
+05.153 - Defesa Terrestre
+07 - Relações Exteriores
+07.122 - Administração Geral
+07.211 - Relações Diplomáticas
+07.212 - Cooperação Internacional
+18.545 - Meteorologia
+22.664 - Propriedade Industrial
+25.754 - Biocombustíveis
+28.847 - Transferências para a Educação Básica
+FU05 - Demais Subfunções
+FU07 - Demais Subfunções 
+
