@@ -1,0 +1,17 @@
+Período: 2010  a  2021 
+ Índice base: 2010 
+ A preços de: 2021 
+ 
+ Variáveis em R$ milhões : 
+
+ Valor Adicionado
+Remuneração
+Salários
+Contribuição social
+Impostos sobre a produção
+Impostos sobre produto, líquidos de subsídios
+Outros impostos sobre a produção líquidos de subsídios
+Excedente Operacional Bruto (EOB) e Rendimento Misto (RM)
+PIB - Ótica da Renda
+PIB - Ótica Produção 
+
